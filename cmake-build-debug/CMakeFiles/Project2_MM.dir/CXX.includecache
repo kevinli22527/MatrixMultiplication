@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/UT Austin/1st Year Classes/Software I (C,C++)/Project2_MM/MatrixMultiply.h
+
+/cygdrive/c/UT Austin/1st Year Classes/Software I (C,C++)/Project2_MM/Project2.cpp
+stdio.h
+-
+stdint.h
+-
+stdlib.h
+-
+MatrixMultiply.h
+/cygdrive/c/UT Austin/1st Year Classes/Software I (C,C++)/Project2_MM/MatrixMultiply.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Project2_MM.dir/Project2.cpp.o CMakeFiles/Project2_MM.dir/main.cpp.o  -o Project2_MM.exe -Wl,--out-implib,libProject2_MM.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
